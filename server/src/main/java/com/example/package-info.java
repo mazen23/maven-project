@@ -1,7 +1,5 @@
-/*
-*package info.
-*Pow Paw
-*ta5
+/**
+*this is a package info.
 */
 
 package com.example;
