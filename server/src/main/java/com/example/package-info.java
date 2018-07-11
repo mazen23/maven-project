@@ -1,5 +1,5 @@
-/**
-*package info
+/*
+*package info.
 *Pow Paw
 *ta5
 */
