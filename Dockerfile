@@ -1,9 +1,7 @@
-FROM tomcat:alpine
-
+FROM tomcat:8.0
 
 ADD ./webapp/target/*.war  /usr/local/tomcat/webapps/
 
 EXPOSE 8088
 
-CMD["catalina.sh", "run"]
-
+CMD ["catalina.sh", "run"]
